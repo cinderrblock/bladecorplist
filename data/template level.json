@@ -1,0 +1,25 @@
+{
+    "id": -6,
+    "name": "gregory VI",
+    "author": "💔",
+    "creators": ["one, two, seven, eight"],
+    "verifier": "Riot the sequel",
+    "verification": "https://www.youtube.com/watch?v=fJwudWkxHnE",
+    "showcase": "https://youtube.com/@cndrblck",
+    "percentToQualify": 99,
+    "password": "73546",
+    "records": [
+        {
+            "user": "hi",
+            "link": "https://www.youtube.com/watch?v=YiMet7J4fFs",
+            "percent": 7,
+            "hz": 1999
+        },
+        {
+            "user": "17444",
+            "link": "https://search.brave.com/search?q=%5B%3F%3F%3F%5D+mode&source=web",
+            "percent": 100,
+            "hz": 9999999999999999
+        }
+    ]
+}
